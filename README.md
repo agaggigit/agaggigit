@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ...
 - Nama : Muhammad Affandi Argya Bagaskara
 - Kelompok : Laplace
+- Penjelasan Project : Kalkulator operasi matematis sederhana tambah, kurang, kali, bagi. Menggunakan bahasa c++ dan library iostream dan cmath.
 
 <!---
 agaggigit/agaggigit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
